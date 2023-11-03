@@ -21,6 +21,16 @@
   },
   "devDependencies": {
     "@tsconfig/node-lts-strictest-esm": "^18.12.1",
-    "@types/cors": "^2.8.15"
+    "@types/compression": "^1.7.4",
+    "@types/cors": "^2.8.15",
+    "@types/dotenv": "^8.2.0",
+    "@types/express": "^4.17.20",
+    "husky": "^8.0.3",
+    "jest": "^29.7.0",
+    "nodemon": "^3.0.1",
+    "prettier": "^3.0.3",
+    "prettier-eslint": "^16.1.2",
+    "supertest": "^6.3.3",
+    "typescript": "^5.2.2"
   }
 }
