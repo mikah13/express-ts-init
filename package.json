@@ -1,0 +1,12 @@
+{
+  "name": "create-express-ts",
+  "version": "1.0.0",
+  "description": "create-express-ts is a repository that serves as a foundational boilerplate for building web applications using the Express.js framework and TypeScript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
