@@ -1,6 +1,6 @@
 {
   "name": "express-ts-init",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "express-ts-init is a repository that serves as a foundational boilerplate for building web applications using the Express.js framework and TypeScript.",
   "license": "MIT",
   "private": false,

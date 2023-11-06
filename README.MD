@@ -11,19 +11,7 @@
 
 
 
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
+
 
 
 <!-- PROJECT LOGO -->
@@ -54,9 +42,6 @@
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
     </li>
     <li>
       <a href="#getting-started">Getting Started</a>
@@ -70,23 +55,11 @@
 
 express-ts-init is a repository that serves as a foundational boilerplate for building web applications using the Express.js framework and TypeScript. This repository is made with the intention to follow the best practice for clean architecture as well as type safety.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
+## Installation
 
-### Built With
-
-* [![Express][Express.js]][express-url]
-* [![TypeScript][TypeScript]][TypeScript-url]
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-### Installation
-
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
 
 1. Clone the repo
    ```sh
@@ -112,5 +85,3 @@ _Below is an example of how you can instruct your audience on installing and set
     ```sh
     pnpm run dev
     ```
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
