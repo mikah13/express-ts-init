@@ -60,7 +60,6 @@ express-ts-init is a repository that serves as a foundational boilerplate for bu
 
 ## Installation
 
-
 1. Clone the repo
    ```sh
    git clone https://github.com/mikah13/express-ts-init.git
