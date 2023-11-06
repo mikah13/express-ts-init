@@ -1,7 +1,7 @@
 {
-  "name": "create-express-ts",
-  "version": "1.0.0",
-  "description": "create-express-ts is a repository that serves as a foundational boilerplate for building web applications using the Express.js framework and TypeScript.",
+  "name": "express-ts-init",
+  "version": "1.1.0",
+  "description": "express-ts-init is a repository that serves as a foundational boilerplate for building web applications using the Express.js framework and TypeScript.",
   "license": "MIT",
   "private": false,
   "main": "src/index.ts",
@@ -20,7 +20,7 @@
     "prepare": "husky install"
   },
   "keywords": [],
-  "author": "Mike Hoang",
+  "author": "mikah13",
   "imports": {
     "@/*": "./src/*"
   },
