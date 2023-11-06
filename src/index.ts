@@ -1,12 +1,11 @@
+import 'reflect-metadata';
 import app from './app';
 import config from './config/config';
 import logger from './middlware/logger';
 
-
 const server = app.listen(parseInt(config.port), () => {
   logger.log('info', `Server is running on Port: ${config.port}`);
 });
-
 
 process.on('SIGTERM', () => {
   logger.info('SIGTERM signal received.');
